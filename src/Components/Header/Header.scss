@@ -1,0 +1,24 @@
+
+.header{
+    background-color: #178B58;
+    height: 8rem;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+
+    &__logo{
+        padding: 1rem 1rem;
+        color: white;
+    }
+
+    &__img-div{
+        height: 4rem;
+        width: 4rem;
+        border-radius: 50px;
+        border: grey;
+        background: grey;
+    }
+
+}
