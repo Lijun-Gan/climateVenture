@@ -1,0 +1,12 @@
+.footer{
+    background-color: #178B58;
+    
+    &__text{
+        color: white;
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        padding: .1rem;
+    }
+}
